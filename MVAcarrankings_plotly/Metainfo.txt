@@ -1,0 +1,21 @@
+
+Name of QuantLet: MVAcarrankings_plotly
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: 'Performs a monotone transformation to the estimated stimulus utilities of the car example by applying the pool-adjacent-violators (PAV) algorithm.
+Plotly technology is used (D3.js and Java Script)'
+
+Keywords: MDS, non-metric-MDS, multi-dimensional, scaling, PAV, violators, Shepard-Kruskal, regression, plot, graphical representation
+
+See also: MVAMDScity1, MVAMDScity2, MVAMDSpooladj, MVAmdscarm, MVAnmdscar1, MVAnmdscar2, MVAnmdscar3, MVAMDSnonmstart, PAVAlgo
+
+Author: Zografia Anastasiadou, Lukas Borke
+
+Submitted: Thu, March 03 2016 by Lukas Borke
+
+Input: 
+- x : the reported preference orderings for the car example
+- y : the fitted values of x
+
+Example: Plotly (D3.js and Java Script) Plot of estimated preference orderings vs revealed rankings and PAV fit.
