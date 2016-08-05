@@ -3,7 +3,7 @@
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVAcarrankings_plotly** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
-## <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/Plotly_logo.png" width="60" /> [Interactive Plotly](http://quantlet.github.io/Plotly/MVAcarrankings_plotly.html)
+## <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/Plotly_logo.png" width="60" /> [Interactive Plotly](http://d3akula.github.io/Plotly/MVAcarrankings_plotly.html)
 
 ```yaml
 

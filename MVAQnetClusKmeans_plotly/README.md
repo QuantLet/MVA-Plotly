@@ -3,9 +3,9 @@
 
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **MVAQnetClusKmeans_plotly** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
-## <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/Plotly_logo.png" width="60" /> [Interactive Plotly:BCS](http://quantlet.github.io/Plotly/qnet_bcs_plotly.html)
+## <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/Plotly_logo.png" width="60" /> [Interactive Plotly:BCS](http://d3akula.github.io/Plotly/qnet_bcs_plotly.html)
 
-## <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/Plotly_logo.png" width="60" /> [Interactive Plotly:MVA](http://quantlet.github.io/Plotly/qnet_mva_plotly.html)
+## <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/Plotly_logo.png" width="60" /> [Interactive Plotly:MVA](http://d3akula.github.io/Plotly/qnet_mva_plotly.html)
 
 ```yaml
 
