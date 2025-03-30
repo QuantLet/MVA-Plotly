@@ -25,7 +25,7 @@ gp = cbind(a, b)
 # Plotly plot of car rankings
 gpdf = as.data.frame(gp)
 
-p <- plot_ly(gpdf, x = a, y = b, type="l", name = "after PAV algorithm", text = paste("car", a, sep = ""), color = b) %>%
+p <- plot_ly(gpdf, x = a, y = b, type='scatter', name = "after PAV algorithm", text = paste("car", a, sep = ""), color = b) %>%
 	layout(xaxis = list(title = "revealed rankings"), yaxis = list(title = "estimated rankings"))
 p <- add_trace(p,y=y, mode = "markers", name = "additive model")
 p
