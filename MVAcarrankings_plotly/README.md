@@ -9,7 +9,7 @@ Name of QuantLet: MVAcarrankings_plotly
 
 Published in: Applied Multivariate Statistical Analysis
 
-Description: Performs a monotone transformation to the estimated stimulus utilities of the car example by applying the pool-adjacent-violators (PAV) algorithm.
+Description: Performs a monotone transformation to the estimated stimulus utilities of the car example by applying the pool-adjacent-violators (PAV) algorithm. Plotly technology is used (D3.js and Java Script)
 
 Keywords: MDS, non-metric-MDS, multi-dimensional, scaling, PAV, violators, Shepard-Kruskal, regression, plot, graphical representation
 
