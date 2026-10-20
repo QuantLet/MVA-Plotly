@@ -9,7 +9,7 @@ Name of QuantLet: MVAQnetClusKmeans_plotly
 
 Published in: Applied Multivariate Statistical Analysis
 
-Description: The document similarity of quantlets is calculated based on their keywords. For this purpose quantlets are taken from the MVA book and BCS project. First the keywords are transformed into the vector representation.
+Description: The document similarity of quantlets is calculated based on their keywords. For this purpose quantlets are taken from the MVA book and BCS project. First the keywords are transformed into the vector representation. Then the scalar product is applied calculating so the similarity measure. The advanced term-term correlation model additionally uses the term-term correlation matrix between the terms of all documents. Finally the k-means algorithm with the Euclidean norm is applied for clustering (four clusters) and the data are represented via MDS (multidimensional scaling) showing metric MDS for BCS quantlets and metric MDS for MVA quantlets. Plotly technology is used for visualization(D3.js and Java Script)
 
 Keywords: cluster-analysis, plot, graphical representation, kmeans, distance, euclidean, euclidean-norm, multi-dimensional, scaling, MDS, similarity, data visualization
 
